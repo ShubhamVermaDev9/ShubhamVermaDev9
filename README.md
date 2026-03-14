@@ -1,153 +1,220 @@
-<h1 align="center">
-⚡ SHUBHAM VERMA ⚡
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00FFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;ML+%2F+AI+Engineer;Deep+Learning+Explorer;Problem+Solver;Building+the+Future+%F0%9F%9A%80" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,30:1a0033,60:2d0057,100:ff00ff&height=200&section=header&text=SHUBHAM%20VERMA&fontSize=60&fontColor=00FFFF&fontAlignY=55&animation=fadeIn&stroke=ff00ff&strokeWidth=2&desc=Full%20Stack%20Dev%20%7C%20ML%20%2F%20AI%20Engineer&descSize=18&descAlignY=78&descColor=ff99ff"/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003333,100:00FFFF&height=120&section=header"/>
-</p>
+</div>
 
----
+<div align="center">
 
-## 💫 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=800&lines=⚡+Full+Stack+Developer;🤖+ML+%2F+AI+Engineer;🧠+Deep+Learning+Architect;🌐+Building+Intelligent+Web+Apps;🚀+Neon+Tokyo+Coder" />
 
-🔭 Currently working on: **Full Stack Projects & Deep Learning Models**  
-🤖 Exploring: **ANN, CNN, RNN architectures & AI automation with n8n**  
-🌱 Learning: **Advanced ML pipelines, System Design & Backend APIs**  
-💬 Ask me about: **React.js, Python, TensorFlow, OpenCV**  
-⚡ Fun fact: I build things that think — and occasionally break them too 🤖
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=9B59FF&center=true&vCenter=true&width=600&lines=%3E+Initializing+profile...;%3E+Loading+skills...+%5BDONE%5D;%3E+Compiling+projects...+%5BDONE%5D;%3E+Welcome+to+my+neural+network+%F0%9F%94%AE)](https://github.com/ShubhamVermaDev9)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; `whoami`
 
-<a href="mailto:2k23.it2310808@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
-</a>
+```python
+class ShubhamVerma:
+    def __init__(self):
+        self.name       = "Shubham Verma"
+        self.role       = ["Full Stack Developer", "ML / AI Engineer"]
+        self.location   = "India 🇮🇳"
+        self.languages  = ["Python", "JavaScript", "Java"]
+        self.stack      = {
+            "frontend"  : ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+            "ml_ai"     : ["TensorFlow", "Scikit-learn", "OpenCV", "Pandas", "NumPy"],
+            "dl_models" : ["ANN", "CNN", "RNN"],
+            "tools"     : ["Git", "VS Code", "Jupyter", "Google Colab", "n8n"]
+        }
+        self.currently  = "Building AI-powered Full Stack apps 🤖"
+        self.fun_fact   = "I build things that think — and sometimes they think better than me 😅"
 
-<a href="https://linkedin.com/in/shubhamwebdev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
-</a>
+    def say_hello(self):
+        print("Thanks for dropping by! Let's build something incredible 🚀")
+```
 
-<a href="https://github.com/ShubhamVermaDev9">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF"/>
-</a>
-
-</p>
-
----
-
-## 🛠️ Tech Arsenal
-
----
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-### 🌐 Frontend Development
+## 🌐 &nbsp; Connect With Me
 
-<p>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Responsive_UI-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFFF"/>
-</p>
+<div align="center">
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF00FF)](mailto:2k23.it2310808@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=9B59FF)](https://linkedin.com/in/shubhamwebdev)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/ShubhamVermaDev9)
+[![Phone](https://img.shields.io/badge/+91_7607461418-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=FF00FF)](tel:+917607461418)
 
-### 🤖 Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-### 🧠 Deep Learning
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p>
-<img src="https://img.shields.io/badge/ANN-000000?style=for-the-badge&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/CNN-111111?style=for-the-badge&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/RNN-222222?style=for-the-badge&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/Computer_Vision-0A66C2?style=for-the-badge&logoColor=white"/>
-</p>
+## ⚡ &nbsp; Tech Arsenal
+
+### 💻 &nbsp; Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-%230D0D0D.svg?style=for-the-badge&logo=python&logoColor=FF00FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230D0D0D.svg?style=for-the-badge&logo=javascript&logoColor=9B59FF)
+![Java](https://img.shields.io/badge/Java-%230D0D0D.svg?style=for-the-badge&logo=openjdk&logoColor=00FFFF)
+
+</div>
+
+### 🌐 &nbsp; Frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-%230D0D0D.svg?style=for-the-badge&logo=react&logoColor=00FFFF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%230D0D0D.svg?style=for-the-badge&logo=tailwind-css&logoColor=9B59FF)
+![HTML5](https://img.shields.io/badge/HTML5-%230D0D0D.svg?style=for-the-badge&logo=html5&logoColor=FF00FF)
+![CSS3](https://img.shields.io/badge/CSS3-%230D0D0D.svg?style=for-the-badge&logo=css3&logoColor=FF99FF)
+
+</div>
+
+### 🤖 &nbsp; ML / AI
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%230D0D0D.svg?style=for-the-badge&logo=tensorflow&logoColor=FF00FF)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%230D0D0D.svg?style=for-the-badge&logo=scikitlearn&logoColor=9B59FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-%230D0D0D.svg?style=for-the-badge&logo=opencv&logoColor=00FFFF)
+![Pandas](https://img.shields.io/badge/Pandas-%230D0D0D.svg?style=for-the-badge&logo=pandas&logoColor=FF99FF)
+![NumPy](https://img.shields.io/badge/NumPy-%230D0D0D.svg?style=for-the-badge&logo=numpy&logoColor=FF00FF)
+
+</div>
+
+### 🧠 &nbsp; Deep Learning
+<div align="center">
+
+![ANN](https://img.shields.io/badge/ANN-1a0033?style=for-the-badge&logoColor=FF00FF)
+![CNN](https://img.shields.io/badge/CNN-1a0033?style=for-the-badge&logoColor=9B59FF)
+![RNN](https://img.shields.io/badge/RNN-1a0033?style=for-the-badge&logoColor=00FFFF)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1a0033?style=for-the-badge&logo=googlelens&logoColor=FF99FF)
+
+</div>
+
+### 🧰 &nbsp; Tools
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-%230D0D0D.svg?style=for-the-badge&logo=git&logoColor=FF00FF)
+![GitHub](https://img.shields.io/badge/GitHub-%230D0D0D.svg?style=for-the-badge&logo=github&logoColor=00FFFF)
+![VSCode](https://img.shields.io/badge/VS_Code-%230D0D0D.svg?style=for-the-badge&logo=visualstudiocode&logoColor=9B59FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-%230D0D0D.svg?style=for-the-badge&logo=jupyter&logoColor=FF00FF)
+![Colab](https://img.shields.io/badge/Google_Colab-%230D0D0D.svg?style=for-the-badge&logo=googlecolab&logoColor=FF99FF)
+![n8n](https://img.shields.io/badge/n8n-%230D0D0D.svg?style=for-the-badge&logo=n8n&logoColor=00FFFF)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-### 🧰 Tools & Environment
+## 📊 &nbsp; Skill Levels
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
+```
+React.js          ████████████████████░░░  85%  💜
+Python            ███████████████████░░░░  82%  💜
+TensorFlow / ML   ████████████████░░░░░░░  70%  💜
+Deep Learning     ██████████████░░░░░░░░░  62%  💜
+Java              ████████████░░░░░░░░░░░  55%  💜
+Node.js / APIs    ███████████████░░░░░░░░  65%  💜
+OpenCV / CV       █████████████░░░░░░░░░░  58%  💜
+```
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamVermaDev9&theme=dark&hide_border=false&show_icons=true&icon_color=00FFFF&title_color=00FFFF"/>
-</p>
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ShubhamVermaDev9&theme=dark&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamVermaDev9&layout=compact&theme=dark&title_color=00FFFF"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 🏆 Achievements
+## 🚀 &nbsp; Featured Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamVermaDev9&theme=matrix&no-frame=true&margin-w=10"/>
-</p>
+<div align="center">
+
+| 🔮 Project | 🛠️ Stack | 📌 Description |
+|:---:|:---:|:---:|
+| **AI Vision App** | Python · OpenCV · TensorFlow | Real-time object detection & classification using CNN |
+| **Full Stack Dashboard** | React.js · Tailwind · Node.js | Responsive admin dashboard with live data |
+| **ML Classifier** | Scikit-learn · Pandas · NumPy | End-to-end ML pipeline with data visualization |
+| **n8n Automation** | n8n · APIs · Python | Workflow automation connecting AI + Web services |
+
+</div>
+
+> 💡 *More projects dropping soon — watch this space!*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 🚀 What I'm Building
+## 📈 &nbsp; GitHub Stats
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Apps;AI+%2F+ML+Projects;Deep+Learning+Models;Automation+with+n8n;Open+Source+Contributions" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamVermaDev9&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF00FF&icon_color=9B59FF&text_color=00FFFF&bg_color=0D0D0D"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ShubhamVermaDev9&theme=tokyonight&hide_border=true&ring=FF00FF&fire=9B59FF&currStreakLabel=00FFFF&background=0D0D0D"/>
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamVermaDev9&layout=compact&theme=tokyonight&hide_border=true&title_color=FF00FF&text_color=9B59FF&bg_color=0D0D0D"/>
+
+</div>
 
 ---
 
-<p align="center">
+## 📉 &nbsp; Activity Graph
 
-### ⚡ Thanks for visiting — Let's build something intelligent ⚡
+<div align="center">
 
-</p>
+[![Shubham's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamVermaDev9&bg_color=0D0D0D&color=FF00FF&line=9B59FF&point=00FFFF&area=true&hide_border=true)](https://github.com/ShubhamVermaDev9)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Stay+Curious;Ship+Projects;Never+Stop+Learning;See+You+Again+%F0%9F%9A%80" />
-</p>
+</div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:003333,100:000000&height=120&section=footer"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Crafted with 💙 by Shubham Verma -->
+---
+
+## 🏆 &nbsp; Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShubhamVermaDev9&theme=tokyonight&no-frame=true&margin-w=12&column=7"/>
+
+</div>
+
+---
+
+## 👁️ &nbsp; Profile Views
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/ShubhamVermaDev9/count.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Stay+Curious+%F0%9F%94%AE;Ship+Projects+%F0%9F%9A%80;Never+Stop+Learning+%F0%9F%A7%A0;Let%27s+Connect+%26+Collaborate+%F0%9F%92%9C" />
+
+<br/>
+
+**⚡ Crafted with 💜 by Shubham Verma — Neon Tokyo Edition ⚡**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,40:9B59FF,70:2d0057,100:0D0D0D&height=120&section=footer"/>
+
+</div>
+
+<!-- 💜 Shubham Verma | github.com/ShubhamVermaDev9 -->
