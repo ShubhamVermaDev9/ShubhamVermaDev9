@@ -1,22 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,30:1a0033,60:2d0057,100:ff00ff&height=200&section=header&text=SHUBHAM%20VERMA&fontSize=60&fontColor=00FFFF&fontAlignY=55&animation=fadeIn&stroke=ff00ff&strokeWidth=2&desc=Full%20Stack%20Dev%20%7C%20ML%20%2F%20AI%20Engineer&descSize=18&descAlignY=78&descColor=ff99ff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=800&lines=⚡+Full+Stack+Developer;🤖+ML+%2F+AI+Engineer;🧠+Deep+Learning+Architect;🌐+Building+Intelligent+Web+Apps;🚀+Neon+Tokyo+Coder" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=9B59FF&center=true&vCenter=true&width=600&lines=%3E+Initializing+profile...;%3E+Loading+skills...+%5BDONE%5D;%3E+Compiling+projects...+%5BDONE%5D;%3E+Welcome+to+my+neural+network+%F0%9F%94%AE)](https://github.com/ShubhamVermaDev9)
-
-</div>
 
 ---
 
