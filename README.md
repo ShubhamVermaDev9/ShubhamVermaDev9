@@ -51,7 +51,6 @@ class ShubhamVerma:
 
 ![Python](https://img.shields.io/badge/Python-%230D0D0D.svg?style=for-the-badge&logo=python&logoColor=FF00FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%230D0D0D.svg?style=for-the-badge&logo=javascript&logoColor=9B59FF)
-![Java](https://img.shields.io/badge/Java-%230D0D0D.svg?style=for-the-badge&logo=openjdk&logoColor=00FFFF)
 
 </div>
 
